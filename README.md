@@ -53,6 +53,4 @@ Este es un proyecto frontend autónomo. Puedes verlo abriendo el archivo `index.
     ```
 2.  Abre el archivo `index.html` en tu navegador.
 
----
 
-Este README te proporciona una descripción completa del proyecto, incluyendo sus características, tecnologías y cómo acceder a él. ¡Espero que sea útil!
